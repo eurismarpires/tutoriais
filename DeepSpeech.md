@@ -4,8 +4,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
 ### Instalando o Anaconda
 
     $ wget https://repo.continuum.io/archive/Anaconda3-4.3.0-Linux-x86_64.sh
-    $ bash Anaconda3-4.3.0-Linux-x86_64.sh    
-    $ export PATH=$PATH:/home/eurismar/anaconda3/bin
+    $ bash Anaconda3-4.3.0-Linux-x86_64.sh        
 
 <span>
 

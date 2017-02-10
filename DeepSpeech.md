@@ -15,11 +15,6 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
 
     $ conda create -n eurismar python=2.7
     $ source activate eurismar
-    $ cd nimble
-    $ nim c -r src/nimble install
-    $ echo 'export PATH=$PATH:$HOME/.nimble/bin' >> ~/.profile
-    $ source ~/.profile
-    $ nimble update
 
 ### TensorFlow
     $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-linux_x86_64.whl

@@ -10,4 +10,11 @@ Docker
 ### Listar containers que estão rodando e que não esto rodando
     $ docker ps -l
 ### Para sair, não use exit. Use ctrl+p+q. O exit sai do container colocando ele em stop.    
+
+### Voltar ao container
+    $ docker attach fd05e571c1e2
+### Ver a quantidade de coisas adicionadas
+    $ docker diff fd05e571c1e2
+### Salvar a versão
+    $ docker commit fd05e571c1e2 eurismar/ubuntupython:14.04
     

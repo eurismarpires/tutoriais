@@ -18,3 +18,5 @@ Docker
 ### Salvar a versão
     $ docker commit fd05e571c1e2 eurismar/ubuntupython:14.04
     
+### Referencia:
+    https://www.ricardomartins.com.br/2014/09/11/docker-tutorial-mao-na-massa/

@@ -24,10 +24,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
 ### scipy
     $ pip install scipy
 ### python_speech_features
-    $ wget https://pypi.python.org/packages/fa/3e/f583bc2702caf615fdf00c8eab3334023438d627d4c7e6bcceda429a6811/python_speech_features-0.5.tar.gz#md5=c989f7badfe50f2949464265546566ed
-    $ tar -zxvf python_speech_features-0.5.tar.gz 
-    $ cd python_speech_features-0.5
-    $ python setup.py install
+    $ pip install python_speech_features
 
 ### paramiko
     $ pip install paramiko

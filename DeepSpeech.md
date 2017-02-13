@@ -20,10 +20,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
     $ pip install --ignore-installed --upgrade $TF_BINARY_URL
 
 ### pyxdg
-    $ wget https://pypi.python.org/packages/26/28/ee953bd2c030ae5a9e9a0ff68e5912bd90ee50ae766871151cd2572ca570/pyxdg-0.25.tar.gz#md5=bedcdb3a0ed85986d40044c87f23477c
-    $ tar -zxvf pyxdg-0.25.tar.gz 
-    $ cd pyxdg-0.25/
-    $ python setup.py install
+    $ pip install pyxdg
 ### scipy
     $ pip install scipy
 ### python_speech_features

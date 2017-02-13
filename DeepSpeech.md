@@ -17,7 +17,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
 
 ### TensorFlow
     $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-linux_x86_64.whl
-    $ pip install --ignore-installed --upgrade $TF_BINARY_URLls
+    $ pip install --ignore-installed --upgrade $TF_BINARY_URL
 
 ### pyxdg
     $ wget https://pypi.python.org/packages/26/28/ee953bd2c030ae5a9e9a0ff68e5912bd90ee50ae766871151cd2572ca570/pyxdg-0.25.tar.gz#md5=bedcdb3a0ed85986d40044c87f23477c

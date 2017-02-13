@@ -32,7 +32,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
     $ pip install pysftp
 ### bs4
     $ pip install bs4
-### Caso ocorra algum erro de SSL instalar os os pacotes:
+### Caso ocorra algum erro de SSL em alguns pacotes acima, instalar as bibliotecas abaixo:
     $ sudo apt-get install build-essential libssl-dev libffi-dev python-dev
     $ pip install cryptography
 ```

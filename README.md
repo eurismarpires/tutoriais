@@ -6,6 +6,6 @@
 
 #### Python
 - Create virtual environments for python with conda https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+- Free Programming Books https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
 
-#### Books
-- Free Programming Books https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby
+

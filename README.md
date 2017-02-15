@@ -5,6 +5,7 @@
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
 
 #### Python
+- Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/
 - Create virtual environments for python with conda https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
 - Free Programming Books https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
 - Learn X in Y minutes https://learnxinyminutes.com/docs/python/ https://learnxinyminutes.com/docs/pt-br/python3-pt/

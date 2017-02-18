@@ -1,0 +1,1 @@
+DeepLearning/requisitos_tensorflow-speech-recognition.md

@@ -5,7 +5,7 @@
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
 
 #### Aprendizado de Máquina
-- http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
+- Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
 
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/

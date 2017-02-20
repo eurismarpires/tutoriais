@@ -4,6 +4,9 @@
 - Open Source Society University https://ossu.firebaseapp.com/#/account
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
 
+#### Aprendizado de Máquina
+- http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
+
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/
 - Create virtual environments for python with conda https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/

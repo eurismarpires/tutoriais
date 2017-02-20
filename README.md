@@ -6,6 +6,7 @@
 
 #### Aprendizado de Máquina
 - Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
+- data-science-ipython-notebooks https://github.com/donnemartin/data-science-ipython-notebooks
 
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/

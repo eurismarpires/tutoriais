@@ -5,11 +5,12 @@
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
 - bigdatauniversity https://bigdatauniversity.com/learn/#
 - Curso DeepLearning https://bigdatauniversity.com/learn/deep-learning/
-- Magenta: Música e Arte Geração com Machine Intelligence https://magenta.tensorflow.org/ https://github.com/tensorflow/magenta
+
 
 #### Aprendizado de Máquina
 - Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
 - data-science-ipython-notebooks https://github.com/donnemartin/data-science-ipython-notebooks
+- Magenta: Música e Arte Geração com Machine Intelligence https://magenta.tensorflow.org/ https://github.com/tensorflow/magenta
 
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/

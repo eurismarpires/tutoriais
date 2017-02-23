@@ -3,6 +3,8 @@
 - Como Aprender Data Science de Graça nas Melhores Universidades do Mundo https://datasciencebr.com/como-aprender-data-science-de-gra%C3%A7a-nas-melhores-universidades-do-mundo-60a76a3af887#.hydkls554
 - Open Source Society University https://ossu.firebaseapp.com/#/account
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
+- bigdatauniversity https://bigdatauniversity.com/learn/#
+- Curso DeepLearning https://bigdatauniversity.com/learn/deep-learning/
 
 #### Aprendizado de Máquina
 - Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/

@@ -29,6 +29,6 @@ Docker
     $ sudo nvidia-docker run -it sugartensor/sugartensor 
     $ sudo nvidia-docker ps
     $ sudo nvidia-docker cp oi.txt 308d6a701a39:/root/sugartensor/example
-sudo nvidia-docker attach 308d6a701a39
+    $ sudo nvidia-docker attach 308d6a701a39
  - https://github.com/NVIDIA/nvidia-docker
 

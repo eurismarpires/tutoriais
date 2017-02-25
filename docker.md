@@ -34,10 +34,10 @@ Docker
    
    
 ### Docker NVIDIA(GPU)
-sudo nvidia-docker commit -m 'instalado o git' -a 'eurismarpires@gmail.com' d65875fedef5 eurismar/sugartensor:latest-cpu
-sudo nvidia-docker run -t -i 3eef40b88a9d
-sudo nvidia-docker run -it sugartensor/sugartensor 
-sudo nvidia-docker ps
-sudo nvidia-docker cp oi.txt 308d6a701a39:/root/sugartensor/example
+    $ sudo nvidia-docker commit -m 'instalado o git' -a 'eurismarpires@gmail.com' d65875fedef5 eurismar/sugartensor:latest-cpu
+    $ sudo nvidia-docker run -t -i 3eef40b88a9d
+    $ sudo nvidia-docker run -it sugartensor/sugartensor 
+    $ sudo nvidia-docker ps
+    $ sudo nvidia-docker cp oi.txt 308d6a701a39:/root/sugartensor/example
 sudo nvidia-docker attach 308d6a701a39
 

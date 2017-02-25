@@ -5,6 +5,8 @@
 - Aprendendo a Aprender (Coursera) https://www.coursera.org/learn/learning-how-to-learn
 - bigdatauniversity https://bigdatauniversity.com/learn/#
 - Curso DeepLearning https://bigdatauniversity.com/learn/deep-learning/
+- Deep Learning Courses http://machinelearningmastery.com/deep-learning-courses/
+- Guest Lecture with Andrew Maas: Speech recognition https://www.youtube.com/watch?v=6D8_4GkEWUg&list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q&index=14
 
 
 #### Aprendizado de Máquina

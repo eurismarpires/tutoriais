@@ -441,7 +441,9 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
  	
+##### Voltar a um commit especifico 
 
+	git reset --hard e23e3e45ui129374hn34cddcn34
 # Autor
 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16

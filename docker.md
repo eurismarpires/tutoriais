@@ -20,6 +20,7 @@ Docker
     
 ### Referencia:
    -   https://www.ricardomartins.com.br/2014/09/11/docker-tutorial-mao-na-massa/
+   -   http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/
    
    
   

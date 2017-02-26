@@ -8,6 +8,7 @@
 - Deep Learning Courses http://machinelearningmastery.com/deep-learning-courses/
 - Guest Lecture with Andrew Maas: Speech recognition https://www.youtube.com/watch?v=6D8_4GkEWUg&list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q&index=14
 - Neural Networks - Hugo Larochelle http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
+- The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More https://hackerlists.com/tensorflow-resources/
 
 
 #### Aprendizado de Máquina

@@ -15,7 +15,7 @@
 - Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/
 - data-science-ipython-notebooks https://github.com/donnemartin/data-science-ipython-notebooks
 - Magenta: Música e Arte Geração com Machine Intelligence https://magenta.tensorflow.org/ https://github.com/tensorflow/magenta
-- Introdução à Aprendizagem Profunda(Eduardo Bezerra (CEFET/RJ)) http://sbbd2016.fpc.ufba.br/sbbd2016/minicursos/minicurso3.pdf
+- Introdução à Aprendizagem Profunda(Eduardo Bezerra (CEFET/RJ)) http://sbbd2016.fpc.ufba.br/sbbd2016/minicursos/minicurso3.pdf http://sbbd2016.fpc.ufba.br/sbbd2016/minicursos/material/Minicurso3-DeepLearning.pdf http://sbbd2016.fpc.ufba.br/minicursos/
 - Redes Neurais Convolucionais (André Gustavo Hochuli) http://www.inf.ufpr.br/aghochuli/caffe/CNN_PPT.pdf
 
 #### Python

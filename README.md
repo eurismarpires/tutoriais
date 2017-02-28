@@ -18,6 +18,7 @@
 - Introdução à Aprendizagem Profunda(Eduardo Bezerra (CEFET/RJ)) http://sbbd2016.fpc.ufba.br/sbbd2016/minicursos/minicurso3.pdf http://sbbd2016.fpc.ufba.br/sbbd2016/minicursos/material/Minicurso3-DeepLearning.pdf http://sbbd2016.fpc.ufba.br/minicursos/
 - Redes Neurais Convolucionais (André Gustavo Hochuli) http://www.inf.ufpr.br/aghochuli/caffe/CNN_PPT.pdf
 - Tutorial DeepLearning http://sbbd2016.fpc.ufba.br/sbbd2016/slides/tut01_DeepLearning.pdf
+- How to use Tensorboard https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/
 
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/

@@ -20,6 +20,7 @@
 - Tutorial DeepLearning http://sbbd2016.fpc.ufba.br/sbbd2016/slides/tut01_DeepLearning.pdf
 - How to use Tensorboard https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/
 - Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning - https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.hvbzr1wsk
+- TensorFlow - Tutoriais - https://github.com/nlintz/TensorFlow-Tutorials
 
 #### Python
 - Python Programming: Learn Python using the IPython Notebook http://www.hedaro.com/

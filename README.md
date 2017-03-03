@@ -10,6 +10,7 @@
 - Neural Networks - Hugo Larochelle http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
 - The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More https://hackerlists.com/tensorflow-resources/
 - Deep Learning Courses http://machinelearningmastery.com/deep-learning-courses/?utm_content=buffer02e83&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+- CS 20SI: Tensorflow for Deep Learning Research http://web.stanford.edu/class/cs20si/syllabus.html 
 
 
 #### Aprendizado de Máquina

@@ -11,7 +11,7 @@
 - The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More https://hackerlists.com/tensorflow-resources/
 - Deep Learning Courses http://machinelearningmastery.com/deep-learning-courses/?utm_content=buffer02e83&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - CS 20SI: Tensorflow for Deep Learning Research http://web.stanford.edu/class/cs20si/syllabus.html 
-
+- Artificial Inteligence https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/
 
 #### Aprendizado de Máquina
 - Uma Introducao Visual ao Aprendizado de Maquina http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/

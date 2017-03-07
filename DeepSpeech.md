@@ -35,4 +35,16 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
 ### Caso ocorra algum erro de SSL em alguns pacotes acima, instalar as bibliotecas abaixo:
     $ sudo apt-get install build-essential libssl-dev libffi-dev python-dev
     $ pip install cryptography
+### instalar o git-lfs https://github.com/git-lfs/git-lfs/releases/download/v2.0.1/git-lfs-linux-amd64-2.0.1.tar.gz
+    $ tar -zxvf git-lfs-linux-amd64-2.0.1.tar.gz 
+    $ cd git-lfs-2.0.1/
+    $ sudo ./install.sh 
+    $ sudo git lfs install
+    $ sudo git lfs update    
+    $ git lfs track "*.psd"
+    $ sudo git add .gitattribute
+    $ #dentro do diretorio DeepSpeech
+    $ sudo git lfs fetch
+    $ sudo git lfs checkout
+    
 ```

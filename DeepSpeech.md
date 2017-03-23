@@ -49,4 +49,7 @@ Como Preparar o Ambiente para Rodar o Mozzila/DeepSpeech
     $ sudo git lfs fetch
     $ sudo git lfs checkout
     
+### instalar o pyaudio
+    $ sudo apt-get install python-pyaudio 
+    
 ```

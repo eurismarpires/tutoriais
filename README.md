@@ -34,3 +34,6 @@
 #### Matemática
 - Basic Math Symbols - http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm
 - A Transformada de Fourier e Suas Aplicações http://www.dsc.ufcg.edu.br/~pet/ciclo_seminarios/tecnicos/2010/TransformadaDeFourier.pdf
+
+#### Processamento de Áudio
+- Spectrograms, MFCCs, and Inversion in Python https://timsainb.github.io/spectrograms-mfccs-and-inversion-in-python.html

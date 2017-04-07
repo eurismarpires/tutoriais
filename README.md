@@ -31,6 +31,7 @@
 - Learn X in Y minutes https://learnxinyminutes.com/docs/python/ https://learnxinyminutes.com/docs/pt-br/python3-pt/
 - Importando módulos no Python (imports) http://www.devfuria.com.br/python/imports/
 - Working With Text Files http://opentechschool.github.io/python-data-intro/core/text-files.html
+- Scipy Lectures http://www.scipy-lectures.org/index.html
 
 #### Matemática
 - Basic Math Symbols - http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm

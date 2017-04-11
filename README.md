@@ -41,4 +41,5 @@
 - Spectrograms, MFCCs, and Inversion in Python https://timsainb.github.io/spectrograms-mfccs-and-inversion-in-python.html
 
 #### Screen
-- Kill Attached Screen in Linux: $ screen -S SCREENNAME -p 0 -X quit
+- Kill Attached Screen in Linux: 
+  $ screen -S SCREENNAME -p 0 -X quit

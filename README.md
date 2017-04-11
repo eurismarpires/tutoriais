@@ -32,6 +32,7 @@
 - Importando módulos no Python (imports) http://www.devfuria.com.br/python/imports/
 - Working With Text Files http://opentechschool.github.io/python-data-intro/core/text-files.html
 - Scipy Lectures http://www.scipy-lectures.org/index.html
+- #### VirtualEnv Python https://pythonhelp.wordpress.com/2012/10/17/virtualenv-ambientes-virtuais-para-desenvolvimento/
 
 #### Matemática
 - Basic Math Symbols - http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm
@@ -45,6 +46,7 @@
   $ screen -S SCREENNAME -p 0 -X quit
   
 #### Linux
-  Quando o auto completar não funciona: rodar os camandos http://devget.net/linux/how-to-fix-apt-bash-completion-in-ubuntu/ e depois
-  
+  Quando o auto completar não funciona: rodar os camandos http://devget.net/linux/how-to-fix-apt-bash-completion-in-ubuntu/ e depois  
   $ exec bash
+
+  

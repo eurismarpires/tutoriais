@@ -43,3 +43,8 @@
 #### Screen
 - Kill Attached Screen in Linux: 
   $ screen -S SCREENNAME -p 0 -X quit
+  
+#### Linux
+  Quando o auto completar não funciona: rodar os camandos http://devget.net/linux/how-to-fix-apt-bash-completion-in-ubuntu/ e depois
+  
+  $ exec bash

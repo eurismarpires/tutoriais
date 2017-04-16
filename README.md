@@ -32,7 +32,8 @@
 - Importando módulos no Python (imports) http://www.devfuria.com.br/python/imports/
 - Working With Text Files http://opentechschool.github.io/python-data-intro/core/text-files.html
 - Scipy Lectures http://www.scipy-lectures.org/index.html
-- #### VirtualEnv Python https://pythonhelp.wordpress.com/2012/10/17/virtualenv-ambientes-virtuais-para-desenvolvimento/
+- virtualEnv Python https://pythonhelp.wordpress.com/2012/10/17/virtualenv-ambientes-virtuais-para-desenvolvimento/
+- virtualenvs http://aprenda-python.blogspot.com.br/2016/11/entendendo-virtualenvs.html
 
 #### Matemática
 - Basic Math Symbols - http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm

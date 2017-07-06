@@ -47,7 +47,7 @@
   $ screen -S SCREENNAME -p 0 -X quit
   
 #### Linux
-  Quando o auto completar não funciona: rodar os camandos http://devget.net/linux/how-to-fix-apt-bash-completion-in-ubuntu/ e depois  
+  Quando o auto completar não funciona (Isso vai resolver também o problema do source activate quando exibe "source not found"): rodar os camandos http://devget.net/linux/how-to-fix-apt-bash-completion-in-ubuntu/ e depois  
   $ exec bash
 #### Como escrever
 - ESCREVA RÁPIDO, EDITE LENTAMENTE http://pesquisatec.com/new-blog/2016/7/4/escreva-rpido-edite-lentamente

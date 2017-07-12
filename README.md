@@ -41,6 +41,7 @@
 
 #### Processamento de Áudio
 - Spectrograms, MFCCs, and Inversion in Python https://timsainb.github.io/spectrograms-mfccs-and-inversion-in-python.html
+- MIDI Tutorial - http://www.music-software-development.com/midi-tutorial.html
 
 #### Screen
 - Kill Attached Screen in Linux: 

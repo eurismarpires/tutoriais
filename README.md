@@ -52,4 +52,8 @@
   $ exec bash
 #### Como escrever
 - ESCREVA RÁPIDO, EDITE LENTAMENTE http://pesquisatec.com/new-blog/2016/7/4/escreva-rpido-edite-lentamente
-  
+
+#### Instalar Magenta
+    $ sudo apt-get install libasound2
+    $ sudo apt-get install libasound2-dev
+    $ pip install magenta  

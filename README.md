@@ -56,4 +56,5 @@
 #### Instalar Magenta
     $ sudo apt-get install libasound2
     $ sudo apt-get install libasound2-dev
+    $ pip install python-rtmidi
     $ pip install magenta  

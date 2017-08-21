@@ -58,3 +58,5 @@
     $ sudo apt-get install libasound2-dev
     $ pip install python-rtmidi
     $ pip install magenta  
+#### Delphi
+- [TYPE CURSOR - Retornar um Resultset numa Procedure - Oracle & DBExpress](http://estacaozn.blogspot.com.br/2008/04/type-cursor-retornar-um-resultset-numa.html)

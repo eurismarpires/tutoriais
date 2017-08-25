@@ -60,3 +60,4 @@
     $ pip install magenta  
 #### Delphi
 - [TYPE CURSOR - Retornar um Resultset numa Procedure - Oracle & DBExpress](http://estacaozn.blogspot.com.br/2008/04/type-cursor-retornar-um-resultset-numa.html)
+- [XML Data Bind no Delphi](http://www.sobreprogramacao.com.br/2012/08/xml-data-bind-no-delphi.html) É necessário renomear o arquivo XSD com a extensão .biz, pois o delphi XE não importa corretamente o arquivo se ele possuir a extensão .xsd
